@@ -1,3 +1,1 @@
-# Welcome to my Personal Portfolio
-
-sass assets/scss/app.scss assets/css/styles.css --watch
+# Hi! nice to know you.
